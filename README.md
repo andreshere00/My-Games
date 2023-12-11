@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# My Games
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is part of the subject "Web Engineering" from the Bachelor's Degree in Telecommunication Engineering at Universidad Politénica de Madrid. This project aims to show a local static webpage that contains a TicTacToe and a Quiz game extracted from the DIT-UPM API. So, in this project you can see:
+
+- API concepts.
+- Backend with node.js and yarn.
+- Frontend with JavaScript (or TypeScript) and React framework, as well as other minor libraries.
+- Reactive programming.
 
 ## Available Scripts
 
