@@ -1,0 +1,22 @@
+{
+"My games": "My games",
+"en": "English",
+"es": "Spanish",
+"TicTacToe": "TicTacToe",
+"Home": "Home",
+"Hola, Bienvenido a la página web de Minijuegos en React.": "Hello, Welcome to the React Minigames website.",
+"En esta página podrás jugar a diferentes juegos.": "On this page you can play different games.",
+"Haz click en la pestaña del juego al que quieras jugar.": "Click on the tab of the game you want to play.",
+"https://www.masgamers.com/wp-content/uploads/2020/11/Among-Us-foto-1-1.jpg" : "https://hablemosdeempresas.com/wp-content/uploads/sites/2/2021/01/among-us.png",
+"Number of moves:" : "Number of moves:",
+"Reset": "Reset",
+"Turn": "Turn",
+"Turn of ": "Turn of ", 
+"back" : "back",
+"submit" : "submit",
+"reset" : "reset",
+"next" : "next",
+"Score": "Score",
+"Turn of Player 1 - Xs": "Turn of Player 1 - Xs",
+"Turn of Player 2 - 0s": "Turn of Player 2 - 0s"
+}

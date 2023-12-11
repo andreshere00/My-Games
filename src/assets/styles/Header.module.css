@@ -1,0 +1,10 @@
+.card {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #fafafa;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    max-width: 5 em;
+}

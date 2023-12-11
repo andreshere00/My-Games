@@ -1,0 +1,23 @@
+{
+    "My games": "Mis juegos",
+    "en": "Inglés",
+    "es": "Español",
+    "Home": "Inicio",
+    "TicTacToe": "Tres en raya",
+    "Hola, Bienvenido a la página web de Minijuegos en React.": "Hola, Bienvenido a la página web de Minijuegos en React.",
+    "En esta página podrás jugar a diferentes juegos.": "En esta página podrás jugar a diferentes juegos.",
+    "Haz click en la pestaña del juego al que quieras jugar.": "Haz click en la pestaña del juego al que quieras jugar.",
+    "Number of moves:" : "Número de movimientos:",
+    "Reset": "Reiniciar",
+    "Turn": "Turno",
+    "Turn of ": "Turno de ",
+    "back" : "atrás",
+    "submit" : "comprobar",
+    "reset" : "reiniciar",
+    "next" : "siguiente",
+    "Score": "Puntuación",
+    "Turn of Player 1 - Xs": "Turno del Jugador 1 - Xs",
+    "Turn of Player 2 - 0s": "Turno del Jugador 2 - 0s"
+    
+    
+}

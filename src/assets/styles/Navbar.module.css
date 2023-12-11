@@ -1,0 +1,41 @@
+nav {
+    background-color: black;
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+ }
+
+ nav li {
+    display: inline;
+    text-align: center;
+    margin: 0 20px 0 0;
+    font-size:larger;
+ }
+
+ nav li a {
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+    border: 1px solid rgb(0, 0, 0);
+    text-decoration: none;
+ }
+
+ nav li a:hover {
+    background-color: #333333;
+    color: #ffffff;
+ }
+
+ h3 {
+   margin: auto;
+   text-align: center;
+}
+
+h2 {
+   margin: auto;
+   text-align: center;
+}
+
+h1 {
+   text-align: center;
+ }

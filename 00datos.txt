@@ -1,0 +1,15 @@
+Andrés Herencia López-Menchero
+Patricia Belén Fernández Sastre
+
+MEJORAS REALIZADAS:
+- Indice: barra de navegación por cada uno de los quizzes y Reset: reinicia la puntuación y las respuestas que hemos puesto. Carga un nuevo conjunto de quizzes.
+- CSS: Algunas mejoras en el diseño de la aplicación, personalizando ciertos estilos, para obtener un mejor aspecto general.
+
+MEJORAS EXTRAS:
+- Cuando pulsas sobre el input se elimina la respuesta que hemos puesto.
+
+NOTA:
+Hemos hecho la build del proyecto y la hemos ejecutado en modo LOCAL en el puerto 3000, a través de las siguientes ordenes en git bash:
+npx serve -s build
+Hemos instalado serve con
+npm -i S serve
